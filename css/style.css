@@ -35,3 +35,11 @@ army green: 41521F;
     color: white;
     font-weight: bold;
 }
+
+/*SECCION 2*/
+.container-photo img{
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
