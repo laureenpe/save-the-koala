@@ -34,6 +34,13 @@ army green: 41521F;
                 color: white;
                 font-weight: bold;
             }
+            
+            .btn-danger {
+                color: #fff;
+                background-color: #41521F;
+                border-color: #41521F;
+                margin: 0 0%;
+            }
             /*SECCION 2*/
             
             .container-photo img {
