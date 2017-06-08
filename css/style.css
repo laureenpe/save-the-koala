@@ -1,45 +1,91 @@
-/*
+        /*
 wood brown: A89F68;
 army green: 41521F;
 */
-
-
-/*NAVBAR*/
-
- 
- /*Welcome Section*/
- /*background photo*/
- .welcome{
-     background-image: url(../img/portada.jpg);
-     width:100%;
-     background-size: cover;
-     background-position: center;
-     background-repeat: no-repeat;
-     
- }
-.nav-mio{
-    background-color: transparent;
-    border: none;
-}
-
-.cont {
-    padding: 100px 0;
-    margin-bottom: 10px;
-    color: white;
-}
-.navbar-default .navbar-brand {
-    color: white;
-    font-weight: bold;
-}
-.navbar-default .navbar-nav>li>a{
-    color: white;
-    font-weight: bold;
-}
-
-/*SECCION 2*/
-.container-photo img{
-    width: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-
-}
+        /*NAVBAR*/
+        /*Welcome Section*/
+        /*background photo*/
+        
+        .welcome {
+            background-image: url(../img/portada.jpg);
+            width: 100%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        .nav-mio {
+            background-color: transparent;
+            border: none;
+        }
+        
+        .cont {
+            padding: 100px 0;
+            margin-bottom: 10px;
+            color: white;
+        }
+        
+        .navbar-default .navbar-brand {
+            color: white;
+            font-weight: bold;
+        }
+        
+        .navbar-default .navbar-nav>li>a {
+            color: white;
+            font-weight: bold;
+        }
+        /*SECCION 2*/
+        
+        .container-photo img {
+            width: 76%;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        .information h4 {
+            color: #A89F68;
+        }
+        
+        .information a {
+            color: #A89F68;
+        }
+        /*SECCION 3*/
+        
+        .row img {
+            width: 76%;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        .cosita {
+            border: solid 15px white;
+        }
+        
+        .third {
+            background-color: #A89F68;
+            padding: 100px 0;
+            margin-bottom: 10px;
+        }
+        
+        .third .text {
+            padding-left: 93px;
+        }
+        
+        .third .text h5 {
+            color: white;
+        }
+        
+        .third .text h4 {
+            color: #41521F;
+        }
+        
+        .third .text p {
+            color: white;
+        }
+        
+        .btn-default {
+            color: white;
+            background-color: #41521F;
+            border-color: #41521F;
+        }
+        /*FOURTH SECTION*/
